@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="error">Sorry There is problem with the connection</string>
+    <string name="error_response">Sorry There is problem : %s</string>
+    <string name="error_tts_engine">TTS engine initialization failed Please try again later</string>
+    <string name="error_network_connection">No internet connection</string>
+    <string name="answer">Answer</string>
+    <string name="translate">Translate</string>
+    <string name="todo">Speak</string>
+    <string name="empty_text">No Text To Translate </string>
+    <string name="input_text_to_translate">Input Text To Translate</string>
+    <string name="omega_translator">Omega Translator</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="language_not_available">The language voice data is not installed on your device please install it</string>
+
+
+</resources>
